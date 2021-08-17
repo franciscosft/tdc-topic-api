@@ -1,4 +1,4 @@
-package br.com.tdc.topicapi;
+package br.com.tdc.topic.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

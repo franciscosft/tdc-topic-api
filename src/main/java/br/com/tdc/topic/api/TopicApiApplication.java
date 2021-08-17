@@ -1,4 +1,4 @@
-package br.com.tdc.topicapi;
+package br.com.tdc.topic.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
