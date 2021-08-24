@@ -8,6 +8,7 @@ class TopicApiApplicationTest {
 
 	@Test
 	void contextLoads() {
+		System.err.println("Teste");
 	}
 
 }
